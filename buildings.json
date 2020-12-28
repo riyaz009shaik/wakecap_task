@@ -1,0 +1,147 @@
+{
+  "buildings": [
+    {
+      "buildingName": "I Square Tower",
+      "clientId": "6",
+      "countryData": {
+        "id": "BGD",
+        "name": "Bangladesh",
+        "position": [
+          23.43772514285714,
+          90.55242371428571
+        ]
+      },
+      "id": 1
+    },
+    {
+      "buildingName": "I Square Tower",
+      "clientId": "1",
+      "countryData": {
+        "id": "BGR",
+        "name": "Bulgaria",
+        "position": [
+          42.84398485185184,
+          24.762512629629626
+        ]
+      },
+      "id": 5
+    },
+    {
+      "buildingName": "I Square Tower 6",
+      "clientId": "4",
+      "countryData": {
+        "id": "BLR",
+        "name": "Belarus",
+        "position": [
+          53.310925046511635,
+          28.222152232558148
+        ]
+      },
+      "id": 7
+    },
+    {
+      "buildingName": "A Square Tower",
+      "clientId": "3",
+      "countryData": {
+        "id": "ARM",
+        "name": "Armenia",
+        "position": [
+          40.0073217368421,
+          45.24748026315788
+        ]
+      },
+      "id": 8
+    },
+    {
+      "buildingName": "A Square Tower",
+      "clientId": "1",
+      "countryData": {
+        "id": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "position": [
+          44.22598542857143,
+          17.839320095238094
+        ]
+      },
+      "id": 9
+    },
+    {
+      "buildingName": "I Square Tower 10",
+      "clientId": "1",
+      "countryData": {
+        "id": "AUT",
+        "name": "Austria",
+        "position": [
+          47.63139886111114,
+          13.387487250000003
+        ]
+      },
+      "id": 12
+    },
+    {
+      "buildingName": "Building 6",
+      "clientId": "1",
+      "countryData": {
+        "id": "AGO",
+        "name": "Angola",
+        "position": [
+          -10.361866945205483,
+          16.907859164383563
+        ]
+      },
+      "id": 13
+    },
+    {
+      "buildingName": "Twin Tower",
+      "clientId": "1",
+      "countryData": {
+        "id": "ARE",
+        "name": "United Arab Emirates",
+        "position": [
+          24.192992571428572,
+          54.370252857142866
+        ]
+      },
+      "id": 14
+    },
+    {
+      "buildingName": "scsdc",
+      "clientId": "1",
+      "countryData": {
+        "id": "AGO",
+        "name": "Angola",
+        "position": [
+          -10.361866945205483,
+          16.907859164383563
+        ]
+      },
+      "id": 16
+    },
+    {
+      "buildingName": "A Square Tower",
+      "clientId": "4",
+      "countryData": {
+        "id": "ATA",
+        "name": "Antarctica",
+        "position": [
+          -73.30125778307708,
+          -15.529794867692315
+        ]
+      },
+      "id": 17
+    },
+    {
+      "buildingName": "A Square Tower",
+      "clientId": "1",
+      "countryData": {
+        "id": "ARM",
+        "name": "Armenia",
+        "position": [
+          40.0073217368421,
+          45.24748026315788
+        ]
+      },
+      "id": 18
+    }
+  ]
+}
